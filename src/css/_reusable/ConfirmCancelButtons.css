@@ -1,0 +1,29 @@
+.cc_btn_container {
+  display: flex;
+}
+
+.cc_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  height: 2.5rem;
+  width: 6rem;
+  margin: 1rem;
+  border-radius: 30px;
+  font-weight: bold;
+  color: white;
+}
+
+.confirm_btn {
+  background-color: green;
+}
+
+.cancel_btn {
+  background-color: red;
+}
+
+.cc_icon {
+  width: 1rem;
+  fill: white;
+}

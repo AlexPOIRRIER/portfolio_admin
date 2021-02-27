@@ -1,0 +1,7 @@
+.social_media_logo {
+  width: 3rem;
+  margin: 2rem;
+  border: 2px solid white;
+  border-radius: 50%;
+  box-shadow: 2px 2px 5px 1px black;
+}

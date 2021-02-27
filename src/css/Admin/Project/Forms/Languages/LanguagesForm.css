@@ -1,0 +1,11 @@
+.checkbox_label {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.language_btn {
+	border: none;
+	outline: transparent;
+	background-color: transparent;
+}
